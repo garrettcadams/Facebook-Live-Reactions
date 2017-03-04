@@ -3,8 +3,8 @@
 return [
     'POST_ID'       => '',
     'ACCESS_TOKEN'  => '',
-    'APP_ID'        => '',
-    'APP_SECRET'    => '',
+    'APP_ID'        => '386697608354114',
+    'APP_SECRET'    => '99891fe87dd9b2cb494ef0d604c55e67',
     'VIDEO_BG'      => './images/background.jpg',
     'KEYWORD'       => 'share',
     'FRAME_RATE'    => 5,
